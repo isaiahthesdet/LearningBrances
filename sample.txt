@@ -1,2 +1,5 @@
 How to revert changes practice
+<<<<<<< HEAD
 working on a test case
+Making a change/Learning how to resolve conflicts
+
